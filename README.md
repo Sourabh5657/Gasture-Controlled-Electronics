@@ -54,6 +54,7 @@ This project aims to:
 - Gesture-Controlled Robotics – Extend control to robotic systems.
 - Integration with Virtual Assistants – Combine gestures with voice commands.
 
-## 🔗 Demo Video Link
-https://drive.google.com/file/d/1KIPo2Miq5ARKIxDaN3zBw7H7Isqe0QFF/view?usp=sharing
+## 📽️ Demo Video
+🎥 [Watch the Project in Action](https://drive.google.com/file/d/1KIPo2Miq5ARKIxDaN3zBw7H7Isqe0QFF/view?usp=sharing)
+
 
